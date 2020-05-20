@@ -81,8 +81,15 @@ background-image: url("images/tom1.png");
 }
 
 .name {
-font-size:15px;  
-color:gray;
+font-size:1rem;  
+color:snow;
 text-align:right;
 font-family:cursive;
+}
+
+.footerpic {
+  margin: 15px 20px;
+  height: 600px;
+  width: 1000px;
+  border-radius: 5%;
 }
